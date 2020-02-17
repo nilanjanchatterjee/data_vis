@@ -1,6 +1,6 @@
 Introduction to data Visualization in R
 ========================================================
-<img src="D:/Work/R class/Datavis.jpg" title="data structure" alt="data structure" width="70%" style="display: block; margin: auto;" />
+<img src="https://nilanjanchatterjee.github.io/data_vis/Visualization-figure/Datavis.jpg" title="data structure" alt="data structure" width="70%" style="display: block; margin: auto;" />
 Nilanjan Chatterjee  
 February, 2020
 
@@ -68,7 +68,7 @@ Consists of several building blocks like a sentence.
 
 
 ========================================================
-<img src="D:/Work/R class/lost-or-very-lost.jpg" title="lost or very-lost" alt="lost or very-lost" width="85%" style="display: block; margin: auto;" />
+<img src="https://nilanjanchatterjee.github.io/data_vis/Visualization-figure/lost-or-very-lost.jpg" title="lost or very-lost" alt="lost or very-lost" width="85%" style="display: block; margin: auto;" />
 
 ggplot
 ========================================================
@@ -84,7 +84,7 @@ ggplot(mtcars, aes(x= wt, y= mpg))+
 
 
 ========================================================
-<img src="D:/Work/R class/yay.jpg" title="yay" alt="yay" width="60%" style="display: block; margin: auto;" />
+<img src="https://nilanjanchatterjee.github.io/data_vis/Visualization-figure/yay.jpg" title="yay" alt="yay" width="60%" style="display: block; margin: auto;" />
 
 How to plot in ggplot
 ========================================================
@@ -201,7 +201,7 @@ Thanks
 - For further queries nilanjan@wii.gov.in
 - Slides: https://nilanjanchatterjee.github.io/projects/  
   
-<img src="D:/Work/R class/tenor.gif" title="thank-you" alt="thank-you" width="50%" style="display: block; margin: auto;" />
+<img src="https://nilanjanchatterjee.github.io/data_vis/Visualization-figure/tenor.gif" title="thank-you" alt="thank-you" width="50%" style="display: block; margin: auto;" />
 
 Questions
 ========================================================
