@@ -1,7 +1,7 @@
 Introduction to data Visualization in R
 ========================================================
 <img src="https://nilanjanchatterjee.github.io/data_vis/Visualization-figure/Datavis.jpg" title="data structure" alt="data structure" width="70%" style="display: block; margin: auto;" />
-Nilanjan Chatterjee  
+**Nilanjan Chatterjee**  
 February, 2020
 
 Topics
