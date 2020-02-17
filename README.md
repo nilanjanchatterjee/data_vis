@@ -67,7 +67,6 @@ Consists of several building blocks like a sentence.
 - faceting
 
 
-========================================================
 <img src="https://nilanjanchatterjee.github.io/data_vis/Visualization-figure/lost-or-very-lost.jpg" title="lost or very-lost" alt="lost or very-lost" width="85%" style="display: block; margin: auto;" />
 
 ggplot
@@ -83,7 +82,7 @@ ggplot(mtcars, aes(x= wt, y= mpg))+
 ![plot of chunk unnamed-chunk-5](Visualization-figure/unnamed-chunk-5-1.png)
 
 
-========================================================
+
 <img src="https://nilanjanchatterjee.github.io/data_vis/Visualization-figure/yay.jpg" title="yay" alt="yay" width="60%" style="display: block; margin: auto;" />
 
 How to plot in ggplot
@@ -202,7 +201,4 @@ Thanks
 - Slides: https://nilanjanchatterjee.github.io/projects/  
   
 <img src="https://nilanjanchatterjee.github.io/data_vis/Visualization-figure/tenor.gif" title="thank-you" alt="thank-you" width="50%" style="display: block; margin: auto;" />
-
-Questions
-========================================================
 
